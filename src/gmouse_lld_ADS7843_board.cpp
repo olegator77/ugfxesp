@@ -5,8 +5,8 @@ extern "C" {
 #include "user_interface.h"
 }
 
-#define ESP_TC_IRQ 16
-#define ESP_TC_CS 4
+#define ESP_TC_IRQ 4
+#define ESP_TC_CS 16
 
 #define SPISPEED 2000000
 
